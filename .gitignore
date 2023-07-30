@@ -22,3 +22,5 @@
 
 # ignore vscode settings
 .vscode/
+
+practice-frist/node_modules
